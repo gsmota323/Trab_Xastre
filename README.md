@@ -1,7 +1,6 @@
 # Trabalho Xastre
 
 
-
    * No Github ou Gitlab:
 ** Alguém da equipe crie um projeto/repositório;
 ** Compartilhe com os outros elementos do grupo formado em sala de aula;
@@ -30,3 +29,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 Não há a necessidade de nenhuma entrega, no dia da apresentação, por favor, sejamos pontuais.
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Nesse projeto, fizemos um código que gera um vetor de 1000 posições, com valores aleatórios. Depois ordenamos o vetor com as funções Bubble Sort e Quick Sort. Em seguida, imprimimos o vetor, tiramos a média e mediana. Para finalizar, mostramos o maior e menor valor do vetor. 
