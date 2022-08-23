@@ -1,7 +1,9 @@
+///MADE BY : CAPIVARI; MAURITZ; DEDÃ‰; KINGMARS
+
 #include <stdio.h>
 #include <stdlib.h>
 
-/// funçao com 1000 entradas
+/// funÃ§ao com 1000 entradas
 void vetor100(int vet[])
 {
     int i;
@@ -16,7 +18,7 @@ void vetor100(int vet[])
 
 
 
-/// função que ordena
+/// funÃ§Ã£o que ordena
 
 
 /// media
